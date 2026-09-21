@@ -49,8 +49,7 @@ const lyricsData = [
     { text: "No te apures, no detengas el instante del encuentro, Está dicho que es un hecho, no la pierdas, no hay derecho", time: 182 },
     { text: "No te olvides que la vida casi nunca está dormida", time: 190 },
     { text: "Ella sabía que él sabía, Él sabía, ella sabía, Que él sabía, ella sabía", time: 199 },
-    { text: "Y NO SE OLVIDARON DE SUS...", time: 205 },
-    { text: "FLORES AMARILLAS :)", time: 206 }
+    { text: "Y NO SE OLVIDARON DE TUUUS FLORES AMARILLAS", time: 205 }
 ];
 
 function updateLyrics() {
